@@ -1,0 +1,16 @@
+<html>
+ <head>
+  <link href="style.css"
+  rel = "stylesheet"/>
+  
+ </head>
+ <body>
+ 
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*rq-qYSE3CvegBkhP5N-eCQ.jpeg" width="150"> 
+<h1>Shoazizbek Shomansurov</h1>
+<h2>The beginner of Edtech development</h2>
+<p>Hi👋</p>
+<a href="https://www.instagram.com/shoazizshsh?igsh=MTFwMjhtcW54MWowaQ==">Instagram</a>
+<a href="https://gist.github.com/0b016b6e074e02be85e2f17959ad61c9.git">Github</a>
+</body>
+</html>
